@@ -1,0 +1,49 @@
+ __  __            _     _        __  __               
+|  \/  | __ _ _ __| |__ | | ___  |  \/  | __ _ _______ 
+| |\/| |/ _` | '__| '_ \| |/ _ \ | |\/| |/ _` |_  / _ \
+| |  | | (_| | |  | |_) | |  __/ | |  | | (_| |/ /  __/
+|_|  |_|\__,_|_|  |_.__/|_|\___| |_|  |_|\__,_/___\___|
+                                                       
+Allan Legemaate, Allan Daniel Software
+-----------------------
+Adsgames 2011
+Changelog:
+-----------------------
+
+Version 1.2
+--------------
+*Looped main music
+*Runs in 1280 x 960 resolution default
+*Prettified menus
+*Fixed music start glitch
+*Back button collision increased in help menu
+*Escape returns to menu
+*Automatic save and continue
+*Movement improved, now more physics based and smoother
+*Joystick/Controller Support
+*Game returns to main menu after win
+*Improved graphics
+*New splash
+*Coins cannot spawn under solids
+*Rocks only spawn in playing area
+*Less annoying coin sound implemented
+
+
+Version 1.1.1
+--------------
+*Does not automatically run in full screen mode
+
+Version 1.1
+--------------
+*New levels
+*Menu
+*Help area
+*Exit button
+*Easier Movement
+
+Version 1.0
+--------------
+*Game released
+
+Visit us at www.adsgames.net
+Contact us at contact@adsgames.net
